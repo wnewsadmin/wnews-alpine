@@ -3,7 +3,7 @@ export default defineAppConfig({
     title: 'Alpine',
     description: 'The minimalist blog theme',
     image: {
-      src: '/social-card-preview.png',
+      src: '/wnews-masthead.png',
       alt: 'An image showcasing my project.',
       width: 400,
       height: 300
